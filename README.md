@@ -2,10 +2,6 @@
 
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dharm%20Shah&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Generative%20AI%20Engineer%20%7C%20LLM%20%7C%20RAG%20%7C%20AI%20Agents&descAlignY=55&descSize=18"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=🤖+Building+the+Future+with+AI;🧠+LLMs+%7C+RAG+Pipelines+%7C+AI+Agents;⚡+FastAPI+%7C+React+%7C+Full-Stack+Dev;🔬+Turning+Research+into+Real+Products" alt="Typing SVG" />
-
 <br/>
 
 <!-- Profile Badges Row -->
