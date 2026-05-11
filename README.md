@@ -19,10 +19,6 @@
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=DharmShah&label=Profile+Views&color=00D9FF&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/DharmShah?label=Followers&style=flat-square&color=00D9FF"/>
-
 </div>
 
 ---
@@ -186,10 +182,6 @@ class DharmShah:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DharmShah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7C3AED&text_color=c9d1d9&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmShah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9"/>
-
 <br/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DharmShah&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF"/>
