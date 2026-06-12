@@ -23,8 +23,8 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
+<img align="right" width="380"
+src="https://drive.google.com/uc?export=view&id=1ZSw2SHfFTTIkyDxnKNi470ZOz0MfseBU"/>
 ### 🧠 Who Am I?
 
 ```python
